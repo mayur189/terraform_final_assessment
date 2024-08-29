@@ -1,0 +1,1 @@
+the EC2 instance:Ec2-mayur-webserver,Public IP:10.151.1.107 and Private IP:44.213.107.92 
